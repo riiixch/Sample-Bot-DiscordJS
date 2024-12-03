@@ -1,1 +1,1 @@
-# Sample-Bot-DiscordJS - ตัวอย่างการใช้งานบอท DiscordJS
+# Sample DiscordJS - ตัวอย่างการใช้งาน DiscordJS
